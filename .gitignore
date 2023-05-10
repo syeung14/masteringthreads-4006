@@ -1,0 +1,10 @@
+classes
+*.class
+*.iws
+*.ipr
+*.iml
+target
+.classpath
+.editorconfig
+.project
+.idea/
